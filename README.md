@@ -1,7 +1,7 @@
 ### Hi there! I'm Takashi Tamura. 👋
 
 🔭 I worked as a server-side engineer.  
-🌱 I’m currently learning Web Design.
+🌱 I'm good at Java and Spring Boot.
 
 
 
